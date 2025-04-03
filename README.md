@@ -1,7 +1,5 @@
 # Machine Learning Project: Breast Cancer Prediction
 
-## Project Goal
-
 The aim of this project was to apply and evaluate different Machine Learning techniques for classifying breast tumors as benign (B) or malignant (M). The objective was to build effective predictive models based on the characteristics of tumor cells extracted from digitized images.
 
 **`Machine_Learning_esame.pdf`**: The main project report illustrating the methodology, experiments (focusing on Python version), results, and analysis. (*Note: This report file is in Italian*)
